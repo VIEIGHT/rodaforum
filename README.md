@@ -12,4 +12,12 @@ npm run serve
 
 ### Compiles and minifies for production
 ```
-npm run bui
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+#
