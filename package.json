@@ -28,4 +28,8 @@
   },
   "eslintConfig": {
     "root": true,
-    "env"
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin
