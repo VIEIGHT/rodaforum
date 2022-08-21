@@ -32,4 +32,7 @@
       "node": true
     },
     "extends": [
-      "plugin
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+   
