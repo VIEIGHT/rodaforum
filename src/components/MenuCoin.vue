@@ -5,4 +5,5 @@
     <p class="panel-heading" id="titel-list-coin">
       Coins
     </p>
-    <!--ul tag for coin--
+    <!--ul tag for coin-->
+    <ul v-for=" (coin) in $store.state.data" :key
