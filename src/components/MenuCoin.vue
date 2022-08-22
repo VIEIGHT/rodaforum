@@ -7,4 +7,6 @@
     </p>
     <!--ul tag for coin-->
     <ul v-for=" (coin) in $store.state.data" :key="coin">
-      <router-link :to="`/coin/${coin.id}`" style=
+      <router-link :to="`/coin/${coin.id}`" style="display:contents">
+    <li class="panel-block" >
+      
