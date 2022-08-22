@@ -1,4 +1,5 @@
 <template>
 <div id="menu">
   <article class="panel is-link">
-    <!--title-
+    <!--title-->
+    <p class="panel-heading" id="tit
