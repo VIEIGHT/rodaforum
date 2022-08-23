@@ -9,4 +9,4 @@
     <ul v-for=" (coin) in $store.state.data" :key="coin">
       <router-link :to="`/coin/${coin.id}`" style="display:contents">
     <li class="panel-block" >
-      <span style="font-size: 20px;width: 191px;"> <img :src="`https://cd
+      <span style="font-size: 20px;width: 191px;"> <img :src="`https://cdn.arzdigital.com/uploads/assets/coins/icons/32x32/
