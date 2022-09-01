@@ -10,4 +10,5 @@
       <router-link :to="`/coin/${coin.id}`" style="display:contents">
     <li class="panel-block" >
       <span style="font-size: 20px;width: 191px;"> <img :src="`https://cdn.arzdigital.com/uploads/assets/coins/icons/32x32/${coin.id}.png`" width="30" height="30"> {{coin.name}} </span>
-      <p style="font-size: 20px;">{{coi
+      <p style="font-size: 20px;">{{coin.priceUsd.slice(0,7)}} $</p>
+      <svg v-if="coin.changeP
