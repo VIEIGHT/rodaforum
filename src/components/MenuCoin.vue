@@ -11,4 +11,4 @@
     <li class="panel-block" >
       <span style="font-size: 20px;width: 191px;"> <img :src="`https://cdn.arzdigital.com/uploads/assets/coins/icons/32x32/${coin.id}.png`" width="30" height="30"> {{coin.name}} </span>
       <p style="font-size: 20px;">{{coin.priceUsd.slice(0,7)}} $</p>
-      <svg v-if="coin.changePercent24Hr <'0'" width="30px" height="30px" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><title>ionicons-v5-c</title><polyl
+      <svg v-if="coin.changePercent24Hr <'0'" width="30px" height="30px" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><title>ionicons-v5-c</title><polyline points="352 368 464 368 464 256" style="fill:none;s
