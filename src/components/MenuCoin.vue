@@ -22,4 +22,10 @@
 
 <script>
 export default {
-  name: "
+  name: "MenuCoin",
+  //get API
+  created() {
+    this.$store.commit('getApi')
+  },
+}
+</s
