@@ -28,4 +28,9 @@ export default {
     this.$store.commit('getApi')
   },
 }
-</s
+</script>
+
+<style scoped>
+#menu {
+  width: 100%;
+  height: calc(100%
