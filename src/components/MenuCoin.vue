@@ -33,4 +33,6 @@ export default {
 <style scoped>
 #menu {
   width: 100%;
-  height: calc(100%
+  height: calc(100% - 61px);
+  position: absolute;
+  background-color: wh
