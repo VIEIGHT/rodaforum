@@ -35,4 +35,8 @@ export default {
   width: 100%;
   height: calc(100% - 61px);
   position: absolute;
-  background-color: wh
+  background-color: white;
+  overflow-y: auto;
+}
+#menu::-webkit-scrollbar {
+  display:none;
