@@ -40,3 +40,7 @@ export default {
 }
 #menu::-webkit-scrollbar {
   display:none;
+}
+ul{
+  border-bottom: 1px solid #073148;
+  paddin
