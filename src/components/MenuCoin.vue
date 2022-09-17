@@ -43,4 +43,7 @@ export default {
 }
 ul{
   border-bottom: 1px solid #073148;
-  paddin
+  padding: 10px 1px;
+}
+ul:hover{
+  cursor: pointer;
