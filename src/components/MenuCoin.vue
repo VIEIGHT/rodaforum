@@ -47,3 +47,8 @@ ul{
 }
 ul:hover{
   cursor: pointer;
+  background-color: #f8f2f2;
+}
+.panel-block{
+  display: flex;
+  justify-content: space-
