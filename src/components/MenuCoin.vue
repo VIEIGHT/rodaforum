@@ -55,4 +55,6 @@ ul:hover{
 }
 #titel-list-coin{
   border-radius: 0px;
-  f
+  font-family: sans-serif;
+  display: flex;
+  justify-conte
