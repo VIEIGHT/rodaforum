@@ -51,4 +51,8 @@ ul:hover{
 }
 .panel-block{
   display: flex;
-  justify-content: space-
+  justify-content: space-between;
+}
+#titel-list-coin{
+  border-radius: 0px;
+  f
