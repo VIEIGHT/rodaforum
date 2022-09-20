@@ -57,4 +57,6 @@ ul:hover{
   border-radius: 0px;
   font-family: sans-serif;
   display: flex;
-  justify-conte
+  justify-content: space-between;
+  align-items: center;
+  background-color: #07314
