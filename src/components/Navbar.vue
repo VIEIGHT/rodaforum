@@ -40,3 +40,55 @@
               <a class="button is-white is-outlined">
                 Log in
               </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+	</div>
+</template>
+
+<script>
+
+export default{
+  name:'Navbar',
+
+  created() {
+
+    document.addEventListener('DOMContentLoaded', () => {
+      const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+      if ($navbarBurgers.length > 0) {
+
+        $navbarBurgers.forEach( el => {
+          el.addEventListener('click', () => {
+
+            const target = el.dataset.target;
+            const $target = document.getElementById(target);
+
+
+            el.classList.toggle('is-active');
+            $target.classList.toggle('is-active');
+
+          });
+        });
+      }
+
+    });
+
+  }
+
+}
+</script>
+
+<style scoped>
+@import url(~bulma/css/bulma.css);
+.navbar{
+  width: 100%;
+  background-color: rgba(0,0,0,0);
+  
+}
+#logo{
+  font-size: 32px;
+  color:white;
+}
