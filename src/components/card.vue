@@ -12,4 +12,7 @@
 <script>
 export default {
   name: "card",
-  //prop
+  //props
+  props:{
+    image:String,
+    title:String,
