@@ -92,3 +92,32 @@ export default{
   font-size: 32px;
   color:white;
 }
+.navbar-item{
+  margin-right: 30px;
+  color: #aba9a9;
+}
+.navbar-item:hover{
+  background-color: rgba(0,0,0,0);
+  color: white;
+}
+.navbar-item:focus{
+  background-color:rgba(0,0,0,0);
+}
+.navbar-menu{
+  background-color: rgba(0,0,0,0);
+
+
+}
+@media only screen and (max-width: 1023px) {
+  .navbar{
+    background-color:#073148;
+  }
+  .navbar-menu{
+    background-color:#073148;
+    width: 100%;
+    position: absolute;
+  }
+
+}
+	
+</style>
