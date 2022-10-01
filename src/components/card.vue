@@ -4,4 +4,9 @@
   <div class="Title">
     <h3>{{title}}</h3>
     <p>{{paragraph}}</p>
-    <a :href="link" 
+    <a :href="link" class="">More...</a>
+  </div>
+</div>
+</template>
+
+<sc
