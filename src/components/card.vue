@@ -9,4 +9,7 @@
 </div>
 </template>
 
-<sc
+<script>
+export default {
+  name: "card",
+  //prop
