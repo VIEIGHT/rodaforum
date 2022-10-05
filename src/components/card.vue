@@ -22,4 +22,7 @@ export default {
 }
 </script>
 
-<s
+<style scoped>
+.content{
+  width: 180px;
+  height: 
