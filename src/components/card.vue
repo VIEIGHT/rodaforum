@@ -16,3 +16,10 @@ export default {
   props:{
     image:String,
     title:String,
+    link:String,
+    paragraph:String
+  },
+}
+</script>
+
+<s
