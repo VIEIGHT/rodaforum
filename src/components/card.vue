@@ -25,4 +25,6 @@ export default {
 <style scoped>
 .content{
   width: 180px;
-  height: 
+  height: 260px;
+  background-color: white;
+  border-radius: 
