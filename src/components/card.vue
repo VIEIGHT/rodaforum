@@ -27,4 +27,7 @@ export default {
   width: 180px;
   height: 260px;
   background-color: white;
-  border-radius: 
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-around;
+  flex-direction
