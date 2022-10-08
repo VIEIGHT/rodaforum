@@ -30,4 +30,7 @@ export default {
   border-radius: 10px;
   display: flex;
   justify-content: space-around;
-  flex-direction
+  flex-direction: column;
+  align-content: space-between;
+  align-items: center;
+  margin:10
