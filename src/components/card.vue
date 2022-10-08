@@ -33,4 +33,8 @@ export default {
   flex-direction: column;
   align-content: space-between;
   align-items: center;
-  margin:10
+  margin:10px;
+}
+.image{
+  width: 70%;
+  border-bottom: 1px so
