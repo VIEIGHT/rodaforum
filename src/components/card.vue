@@ -37,4 +37,8 @@ export default {
 }
 .image{
   width: 70%;
-  border-bottom: 1px so
+  border-bottom: 1px solid #6b6b6b;
+}
+
+
+</style>
