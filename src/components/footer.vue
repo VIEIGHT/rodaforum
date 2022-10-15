@@ -1,3 +1,5 @@
 <template>
 <div class="footer">
-  <div c
+  <div class="list-menu">
+    <ul>
+      <li><i class="bi bi-code-slash"
