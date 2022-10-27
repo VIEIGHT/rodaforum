@@ -9,4 +9,5 @@
       <li><i class="bi bi-info-lg"></i> about</li>
     </ul>
     <ul>
-      <li><i class="bi bi-arro
+      <li><i class="bi bi-arrow-down-up"></i> Coin API</li>
+      <li><i class="bi bi-person-
