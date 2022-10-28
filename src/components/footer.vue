@@ -10,4 +10,5 @@
     </ul>
     <ul>
       <li><i class="bi bi-arrow-down-up"></i> Coin API</li>
-      <li><i class="bi bi-person-
+      <li><i class="bi bi-person-plus"></i> sign up</li>
+      <li><i class="bi bi-box-arrow-in-right">
