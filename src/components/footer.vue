@@ -14,4 +14,6 @@
       <li><i class="bi bi-box-arrow-in-right"></i> log in</li>
     </ul>
   </div>
-  <div class="list-li
+  <div class="list-links">
+    <ul dir="rtl">
+      <li>  <i class="bi bi-
