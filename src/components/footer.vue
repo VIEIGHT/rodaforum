@@ -17,4 +17,5 @@
   <div class="list-links">
     <ul dir="rtl">
       <li>  <i class="bi bi-github"></i> Github</li>
-      <li> <i class="bi bi-stack-overflow has-text-warning-dark"></i
+      <li> <i class="bi bi-stack-overflow has-text-warning-dark"></i> stack overflow</li>
+      <li><i class="bi bi-linkedin has-
