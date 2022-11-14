@@ -20,4 +20,7 @@
       <li> <i class="bi bi-stack-overflow has-text-warning-dark"></i> stack overflow</li>
       <li><i class="bi bi-linkedin has-text-info"></i> linkedin</li>
       <li><i class="bi bi-twitch has-text-link"></i> twitch</li>
-      <li><i class="bi bi-twitter 
+      <li><i class="bi bi-twitter has-text-info"></i> twitter</li>
+    </ul>
+  </div>
+</d
