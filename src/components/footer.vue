@@ -23,4 +23,9 @@
       <li><i class="bi bi-twitter has-text-info"></i> twitter</li>
     </ul>
   </div>
-</d
+</div>
+</template>
+
+<script>
+export default {
+  name
