@@ -28,4 +28,10 @@
 
 <script>
 export default {
-  name
+  name: "Footer"
+}
+</script>
+
+<style scoped>
+.footer{
+  width: 1
