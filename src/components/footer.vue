@@ -36,4 +36,6 @@ export default {
 .footer{
   width: 100%;height:250px;
   background-color: #073148;
+  box-shadow: -3px 0px 10px #073148;
+  display: flex;
  
