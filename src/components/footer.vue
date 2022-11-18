@@ -46,4 +46,8 @@ export default {
 li{
   font-size: 15px;
   margin: 10px;
-  c
+  color: white;
+  list-style-type: none;
+}
+li:hover{
+  
