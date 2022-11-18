@@ -38,4 +38,7 @@ export default {
   background-color: #073148;
   box-shadow: -3px 0px 10px #073148;
   display: flex;
- 
+  justify-content: space-between;
+}
+.list-menu{
+  display: f
