@@ -41,4 +41,9 @@ export default {
   justify-content: space-between;
 }
 .list-menu{
-  display: f
+  display: flex;
+}
+li{
+  font-size: 15px;
+  margin: 10px;
+  c
