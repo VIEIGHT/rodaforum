@@ -50,4 +50,7 @@ li{
   list-style-type: none;
 }
 li:hover{
-  
+  cursor: pointer;
+  color: #d7d5d5;
+}
+@media only screen and (
