@@ -53,4 +53,10 @@ li:hover{
   cursor: pointer;
   color: #d7d5d5;
 }
-@media only screen and (
+@media only screen and (max-width: 505px) {
+ i{
+   display: none;
+ }
+}
+
+<
