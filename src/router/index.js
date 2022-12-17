@@ -7,4 +7,8 @@ import about from "../views/about";
 
 Vue.use(VueRouter)
 
-const rout
+const routes = [
+  {
+    path: '/',
+    name: 'Home',
+    compo
