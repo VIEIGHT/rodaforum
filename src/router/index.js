@@ -11,4 +11,9 @@ const routes = [
   {
     path: '/',
     name: 'Home',
-    compo
+    component: Home
+  },
+  {
+    path: '/coin/:id',
+    name: 'coin',
+    compon
