@@ -1,3 +1,4 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import Home fr
+import Home from '../views/Home.vue'
+import coin from '../views/
