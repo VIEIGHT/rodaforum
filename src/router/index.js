@@ -21,4 +21,8 @@ const routes = [
   {
     path: '/mart',
     name: 'mart',
-   
+    component: mart
+  },
+  {
+    path: '/about',
+    name: 'ab
