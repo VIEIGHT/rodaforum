@@ -25,4 +25,10 @@ const routes = [
   },
   {
     path: '/about',
-    name: 'ab
+    name: 'about',
+    component: about
+  }
+
+]
+
+const router = new
