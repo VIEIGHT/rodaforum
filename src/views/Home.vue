@@ -52,3 +52,68 @@
       <footerr/>
     </div>
   </div>
+</template>
+
+<script>
+import Navbar from "../components/Navbar";
+import Card from "../components/card";
+import footerr from "../components/footer";
+
+
+export default {
+  name: 'Home',
+  components:{Card ,Navbar,footerr}
+
+}
+</script>
+
+<style scoped>
+#content{
+  margin-top: 130px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 5%;
+}
+.tab_one,.tab_two{
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 400px;
+}
+.tab_three{
+  display: flex;
+  justify-content:space-evenly;
+  margin-left: -65px;
+  flex-wrap: wrap;
+}
+.lorems{
+  width: 40%;
+  margin-right: 20px;
+}
+img{
+  border-radius: 20px;
+  width: 600px;
+}
+.image{
+  margin-right:30px;
+}
+.lorem {
+  color: white;
+}
+.lorem_2{
+color: #cecccc
+}
+.tab_four{
+  display: flex;
+  justify-content: center;
+  margin: 150px 0px;
+}
+.thank{
+  font-size: 30px;
+}
+@media only screen and (max-width: 1073px) {
+   img{
+     width: 500px;
+   }
+  .tab_two,.tab_one{
+    flex-wrap: wrap;
