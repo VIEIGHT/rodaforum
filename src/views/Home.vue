@@ -117,3 +117,27 @@ color: #cecccc
    }
   .tab_two,.tab_one{
     flex-wrap: wrap;
+  }
+  }
+@media only screen and (max-width: 965px) {
+  .lorems,img{
+    width: 100%;
+    margin-bottom: 50px;
+  }
+  .tab_one,.tab_two,.tab_three{
+    margin-bottom: 200px;
+  }
+  .tab_two{
+    flex-direction: column-reverse;
+  }
+  }
+@media only screen and (max-width: 750px) {
+  .lorems{
+    width: 100%;
+    align-content: center;
+  }
+  .tab_three{
+    margin-left: 5px;
+  }
+}
+</style>
