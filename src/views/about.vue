@@ -37,3 +37,7 @@ p{
 }
 @media only screen and (max-width: 580px) {
  p{
+   font-size: 30px;
+ }
+}
+</style>
