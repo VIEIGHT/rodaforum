@@ -9,4 +9,5 @@
       <span class="top">
         <span>
           <div class="rank"><i class="bi bi-trophy-fill"></i> {{data.rank}}</div>
-          <!-
+          <!--image coin-->
+        <img :src="`https://cdn
