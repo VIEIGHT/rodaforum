@@ -12,4 +12,7 @@
           <!--image coin-->
         <img :src="`https://cdn.arzdigital.com/uploads/assets/coins/icons/32x32/${name}.png`" width="70" height="70">
         <p id="title">{{data.symbol}}</p>
-          </spa
+          </span>
+        <!--chart-->
+        <span>
+        <p style="font
