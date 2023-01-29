@@ -8,4 +8,5 @@
       <!--top-->
       <span class="top">
         <span>
-          <div class="rank"><i c
+          <div class="rank"><i class="bi bi-trophy-fill"></i> {{data.rank}}</div>
+          <!-
