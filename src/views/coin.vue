@@ -15,4 +15,4 @@
           </span>
         <!--chart-->
         <span>
-        <p style="font
+        <p style="font-size: 20px;margin-right: 10px;margin-top: 22px">{{data.cha
