@@ -16,4 +16,4 @@
         <!--chart-->
         <span>
         <p style="font-size: 20px;margin-right: 10px;margin-top: 22px">{{data.changePercent24Hr.slice(0,7)}} %</p>
-        <svg v-if="
+        <svg v-if="data.changePercent24Hr <'0'" width="50" height="50" viewBox
