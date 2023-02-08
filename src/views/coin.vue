@@ -16,4 +16,4 @@
         <!--chart-->
         <span>
         <p style="font-size: 20px;margin-right: 10px;margin-top: 22px">{{data.changePercent24Hr.slice(0,7)}} %</p>
-        <svg v-if="data.changePercent24Hr <'0'" width="50" height="50" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><title>ionicons-v5-c</title><polyline points="352 368 464 368
+        <svg v-if="data.changePercent24Hr <'0'" width="50" height="50" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><title>ionicons-v5-c</title><polyline points="352 368 464 368 464 256" style="fill:none;stroke:red;stroke-linecap:round;stroke-
