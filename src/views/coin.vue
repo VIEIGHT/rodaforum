@@ -23,4 +23,4 @@
       <hr>
       <!--more-->
       <div class="price">
-    
+        <p>{{data.priceUsd.slice(0,7)}}<i class="bi bi-cur
