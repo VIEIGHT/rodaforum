@@ -25,4 +25,6 @@
       <div class="price">
         <p>{{data.priceUsd.slice(0,7)}}<i class="bi bi-currency-dollar"></i></p>
       </div>
-      <div class
+      <div class="more">
+        <p> name : {{data.name}}</p>
+       
