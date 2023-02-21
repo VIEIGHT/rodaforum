@@ -27,4 +27,5 @@
       </div>
       <div class="more">
         <p> name : {{data.name}}</p>
-       
+        <p>supply : {{data.supply.slice(0,10)}} {{data.symbol}}</p>
+      
