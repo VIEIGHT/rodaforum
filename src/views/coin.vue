@@ -23,4 +23,6 @@
       <hr>
       <!--more-->
       <div class="price">
-        <p>{{data.priceUsd.slice(0,7)}}<i class="bi bi-cur
+        <p>{{data.priceUsd.slice(0,7)}}<i class="bi bi-currency-dollar"></i></p>
+      </div>
+      <div class
