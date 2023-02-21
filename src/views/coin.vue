@@ -29,3 +29,4 @@
         <p> name : {{data.name}}</p>
         <p>supply : {{data.supply.slice(0,10)}} {{data.symbol}}</p>
         <p>vwap24Hr : {{data.vwap24Hr.slice(0,10)}} {{data.symbol}}</p>
+        <p>marketCapUsd : {{data.marketCap
