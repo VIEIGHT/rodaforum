@@ -32,4 +32,8 @@
         <p>marketCapUsd : {{data.marketCapUsd.slice(0,8)}} $</p>
         <p><a :href="`${data.explorer}`"><i class="bi bi-link-45deg"></i>more</a></p>
       </div>
-      
+      <!--footer-->
+    </div>
+      <Footer/>
+    </div>
+  </div>
