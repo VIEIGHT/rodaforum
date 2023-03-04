@@ -40,4 +40,6 @@
 </template>
 <script>
 import Navbar from "../components/Navbar";
-import
+import Footer from "../components/footer";
+export default {
+  name:'c
