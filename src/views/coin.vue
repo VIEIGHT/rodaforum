@@ -42,4 +42,7 @@
 import Navbar from "../components/Navbar";
 import Footer from "../components/footer";
 export default {
-  name:'c
+  name:'coin',
+  components: {Navbar,Footer} ,
+  data(){
+   
