@@ -47,3 +47,9 @@ export default {
   data(){
     return{
       name:this.$route.params.id,
+      data:''
+    }
+  },
+  //get API
+  created() {
+    fetch(`https:
