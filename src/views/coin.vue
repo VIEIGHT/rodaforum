@@ -52,4 +52,5 @@ export default {
   },
   //get API
   created() {
-    fetch(`https:
+    fetch(`https://api.coincap.io/v2/assets/${this.name}`)
+        .then(res =>
