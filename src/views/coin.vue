@@ -45,4 +45,5 @@ export default {
   name:'coin',
   components: {Navbar,Footer} ,
   data(){
-   
+    return{
+      name:this.$route.params.id,
