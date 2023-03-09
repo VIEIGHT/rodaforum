@@ -59,4 +59,7 @@ export default {
   }
 }
 </script>
-<style s
+<style scoped>
+.content{
+  display: flex;
+  justify-content: cen
