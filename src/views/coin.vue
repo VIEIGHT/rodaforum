@@ -68,4 +68,6 @@ export default {
   flex-direction: column;
 }
 .coin{
-  width: 60%; height:8
+  width: 60%; height:80%;
+  background-color: #2c2b2b;
+  border-ra
