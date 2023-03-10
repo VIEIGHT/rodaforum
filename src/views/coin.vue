@@ -62,4 +62,6 @@ export default {
 <style scoped>
 .content{
   display: flex;
-  justify-content: cen
+  justify-content: center;
+  align-items: center;
+  height: max-content;
