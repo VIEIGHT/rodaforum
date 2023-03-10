@@ -70,4 +70,8 @@ export default {
 .coin{
   width: 60%; height:80%;
   background-color: #2c2b2b;
-  border-ra
+  border-radius: 20px;
+  margin: 80px;
+}
+p{
+  font-size: 
