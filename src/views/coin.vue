@@ -65,3 +65,7 @@ export default {
   justify-content: center;
   align-items: center;
   height: max-content;
+  flex-direction: column;
+}
+.coin{
+  width: 60%; height:8
