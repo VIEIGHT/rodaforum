@@ -74,4 +74,9 @@ export default {
   margin: 80px;
 }
 p{
-  font-size: 
+  font-size: 30px;
+  color: white;
+  margin-left: 20px;
+}
+span{
+  display: f
