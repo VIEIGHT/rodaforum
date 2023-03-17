@@ -79,4 +79,7 @@ p{
   margin-left: 20px;
 }
 span{
-  display: f
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+ 
