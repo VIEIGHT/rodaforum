@@ -82,4 +82,8 @@ span{
   display: flex;
   align-items: center;
   justify-content: space-between;
- 
+  margin: 18px;
+}
+img{
+  border-radius: 50%;
+  bord
