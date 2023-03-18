@@ -86,4 +86,6 @@ span{
 }
 img{
   border-radius: 50%;
-  bord
+  border: 3px solid white;
+  margin-right: 20px;
+  background-color: 
