@@ -92,4 +92,6 @@ img{
 }
 .price{
   width: 160px; height: 80px;
-  border-radius
+  border-radius: 10px;
+  background: #05e1dd;
+  box-shadow:  27px 27px 100p
