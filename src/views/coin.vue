@@ -88,4 +88,8 @@ img{
   border-radius: 50%;
   border: 3px solid white;
   margin-right: 20px;
-  background-color: 
+  background-color: white;
+}
+.price{
+  width: 160px; height: 80px;
+  border-radius
