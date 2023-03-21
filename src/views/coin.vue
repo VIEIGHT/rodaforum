@@ -94,4 +94,6 @@ img{
   width: 160px; height: 80px;
   border-radius: 10px;
   background: #05e1dd;
-  box-shadow:  27px 27px 100p
+  box-shadow:  27px 27px 100px #026563,
+  0px 0px 10px #64b7b7;
+  dis
