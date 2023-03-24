@@ -96,4 +96,7 @@ img{
   background: #05e1dd;
   box-shadow:  27px 27px 100px #026563,
   0px 0px 10px #64b7b7;
-  dis
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
