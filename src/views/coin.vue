@@ -104,4 +104,9 @@ img{
 .rank{
   font-size: 25px;
   margin: 10px;
-  co
+  color: yellow;
+}
+.more{
+  margin: 20px;
+}
+@media only screen a
