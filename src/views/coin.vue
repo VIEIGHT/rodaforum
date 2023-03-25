@@ -99,4 +99,9 @@ img{
   display: flex;
   justify-content: center;
   align-items: center;
- 
+  margin-left: 20px;
+}
+.rank{
+  font-size: 25px;
+  margin: 10px;
+  co
