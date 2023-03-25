@@ -113,4 +113,6 @@ img{
  p{
    font-size: 25px;
  }
- .to
+ .top{
+   flex-direction: column;
+   justify-c
