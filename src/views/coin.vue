@@ -109,4 +109,8 @@ img{
 .more{
   margin: 20px;
 }
-@media only screen a
+@media only screen and (max-width: 846px) {
+ p{
+   font-size: 25px;
+ }
+ .to
