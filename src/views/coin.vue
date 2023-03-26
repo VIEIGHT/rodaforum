@@ -115,4 +115,7 @@ img{
  }
  .top{
    flex-direction: column;
-   justify-c
+   justify-content: space-between;
+   align-items: stretch;
+ }
+ .pri
