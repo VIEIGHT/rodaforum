@@ -118,4 +118,8 @@ img{
    justify-content: space-between;
    align-items: stretch;
  }
- .pri
+ .price{
+   width: 135px; height: 60px;
+ }
+}
+@media 
