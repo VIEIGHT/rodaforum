@@ -122,4 +122,6 @@ img{
    width: 135px; height: 60px;
  }
 }
-@media 
+@media only screen and (max-width: 660px) {
+  p{
+    
