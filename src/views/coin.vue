@@ -131,4 +131,9 @@ img{
   }
 }
 @media only screen and (max-width: 505px) {
+  .coin{
+    width: 85%;
+  }
+  p{
+    font-size: 15px;
  
