@@ -124,4 +124,7 @@ img{
 }
 @media only screen and (max-width: 660px) {
   p{
-    
+    font-size: 20px;
+  }
+  #title{
+    font-s
