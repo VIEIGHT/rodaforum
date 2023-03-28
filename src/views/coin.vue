@@ -127,4 +127,8 @@ img{
     font-size: 20px;
   }
   #title{
-    font-s
+    font-size: 25px;
+  }
+}
+@media only screen and (max-width: 505px) {
+ 
