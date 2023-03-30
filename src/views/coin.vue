@@ -136,4 +136,9 @@ img{
   }
   p{
     font-size: 15px;
- 
+  }
+  #title{
+    font-size: 20px;
+  }
+  .price{
+    width: 90p
