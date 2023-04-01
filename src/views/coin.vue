@@ -141,4 +141,8 @@ img{
     font-size: 20px;
   }
   .price{
-    width: 90p
+    width: 90px;
+    height: 50px;
+  }
+}
+@media only screen and (max-width
