@@ -145,4 +145,9 @@ img{
     height: 50px;
   }
 }
-@media only screen and (max-width
+@media only screen and (max-width: 453px) {
+  .coin{
+    width: 99%;
+  }
+ .rank{
+   displa
