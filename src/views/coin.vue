@@ -150,4 +150,10 @@ img{
     width: 99%;
   }
  .rank{
-   displa
+   display: none;
+ }
+  #title{
+    font-size: 35px;
+  }
+}
+</style>
