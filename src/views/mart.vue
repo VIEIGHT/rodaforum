@@ -1,2 +1,5 @@
 <template>
-  <d
+  <div class="home">
+      <Navbar/>
+    <!--menu coin-->
+    
