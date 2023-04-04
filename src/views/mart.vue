@@ -11,4 +11,6 @@
 <script>
 
 import Navbar from "../components/Navbar";
-import 
+import MenuCoin from "../components/MenuCoin";
+
+export default 
