@@ -13,4 +13,10 @@
 import Navbar from "../components/Navbar";
 import MenuCoin from "../components/MenuCoin";
 
-export default 
+export default {
+  name: 'mart',
+  components: {
+    Navbar,MenuCoin
+  },
+}
+</
