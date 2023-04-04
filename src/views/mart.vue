@@ -19,4 +19,9 @@ export default {
     Navbar,MenuCoin
   },
 }
-</
+</script>
+<style scoped>
+.home{
+ height:1000px;
+}
+</style>
